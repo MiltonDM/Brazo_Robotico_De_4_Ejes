@@ -3,7 +3,9 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 
 # Proyecto Arduino con una interfaz en Java.
 >Creado por: Milton Alexis Durán Moreno
+
 >Creado por: Luis Eduardo Hernadez Magaña
+
 >Creado por: Jorge Alderto Sanchez Maldona
 
 >Contacto: duran.milton.92@hotmail.com
