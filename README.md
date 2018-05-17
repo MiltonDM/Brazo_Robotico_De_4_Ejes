@@ -19,10 +19,16 @@ Programas:
 - Arduino IDE
 
 Materiales:
-- Protoboard
-- Potenciometro (10k)
+- 2 Arduinos Uno
+- Protoboard.
+- Driver Uln2003 .
+- Motores paso a paso: 28BYJ-48.
+- ServoMoot: TowerPro SG90 9G Mini.
+- Potenciometro (10k).
 - Pantalla LCD.
-- Cables
+- Cables.
+- Leds.
+- Pulsadore (botones).
 
 Librerias: para la comunicacion Arduino con Java
 
