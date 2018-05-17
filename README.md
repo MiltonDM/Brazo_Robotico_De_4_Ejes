@@ -29,6 +29,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 - Cables.
 - Leds.
 - Pulsadore (botones).
+- resistencias 200 homs
 - Base para poner los servos.
 
 ## Características principales: 
