@@ -2,18 +2,17 @@
 El propósito de esta práctica es desarrollar paso a paso un proyecto para controlar y programar un Brazo Robot, simulando las funciones básicas de un robot industrial. 
 
 # Proyecto Arduino con una interfaz en Java.
->Creado por: Milton Alexis Durán Moreno
+>Creado por: Milton Alexis Durán Moreno.
 
->Creado por: Luis Eduardo Hernadez Magaña
+>Creado por: Luis Eduardo Hernadez Magaña.
 
->Creado por: Jorge Alderto Sanchez Maldona
+>Creado por: Jorge Alderto Sanchez Maldona.
 
 >Contacto: duran.milton.92@hotmail.com
 
-## Arduino con un LCD desplegar.
-- Mensaje
-- Hora 
-- Temperatura
+## El robot debe tener dos funciones básicas: .
+- Programar: Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos). 
+- Ejecutar: Realice en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR
 
 El usuario puede navegar entre los mensajes crear una interfaz en java para mandar los mensajes al arduino, mostrando cada uno de los solicitado como la temperatura, Hora, y los mensajes que le mandemos. cada funcion con un respectivo tiempo 
 
