@@ -11,24 +11,25 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 >Contacto: jorgealberto_sanchezmaldonado@outlook.com <br />
 
 ## El robot debe tener dos funciones básicas: .
-- Programar: Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos). 
-- Ejecutar: Realice en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR
+- **Programar:** Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos). 
+- **Ejecutar:** Realice en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR
 
-Programas:
+**Programas:**
 - Java
 - Arduino IDE
 
-Materiales:
+**Materiales:**
 - 2 Arduinos Uno
 - Protoboard.
 - Driver Uln2003 .
 - Motores paso a paso: 28BYJ-48.
-- ServoMoot: TowerPro SG90 9G Mini.
+- ServoMotor: TowerPro SG90 9G Mini.
 - Potenciometro (10k).
 - Pantalla LCD.
 - Cables.
 - Leds.
 - Pulsadore (botones).
+- Base para poner los servos.
 
 Librerias: para la comunicacion Arduino con Java
 
