@@ -63,3 +63,7 @@ Librerias: para la comunicacion Arduino con Java
 <td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195905173_BURST000_COVER_TOP.jpg></td>
 </tr>
 </table>
+
+## Referencias
+**link:** http://panamahitek.com/arduino-java-facil-y-rapido/
+**link:** http://panamahitek.com/libreria-panamahitek_arduino/
