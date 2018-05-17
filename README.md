@@ -38,7 +38,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
  - Debe de contener un botón de paro de emergencia (Físico).     
  - Si existe un fallo y/o corte de energía, después de restablecerse la corriente el robot debe de continuar el programa (aunque este no se encuentre conectado a la aplicación).
  - Los brazos robóticos se pueden clasificar de acuerdo con el número de "articulaciones" o "Grados de libertad" (DOF) que tienen.             
-    - La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del   tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o)
+ - La "Base", o "Cintura", por lo general puede girar el brazo 180o o 360o, dependiendo del   tipo de Servo utilizado (aquí en este proyecto, se debe utilizar un motor a pasos para girar 360o)
      - El "Hombro" es el responsable de "levantar o bajar" el brazo verticalmente 
      - El "codo" hará que el brazo "avance o retroceda".
      - La "Garra" o "Pinza" funciona abriendo o cerrándose para "agarrar cosas". 
