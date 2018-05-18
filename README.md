@@ -52,19 +52,18 @@ Librerias: para la comunicacion Arduino con Java
     >RXTXcomm
     >PanamaHitek_Arduino-3.0.0
 
-## Diseño electrónico
-![alt tag](https://github.com/MiltonDM/UNIDAD_3/blob/master/image/1.png)
-
-
 ## Diseño Interfaz Java
 ![alt tag](https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/interfaz.png)
 ## Vista previa de Resultados:
 
+## Diseño electrónico
+![alt tag](https://github.com/MiltonDM/UNIDAD_3/blob/master/image/1.png)
+
 <table>
 <tr>
-<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195835602_BURST001.jpg></td>
-<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195900047_BURST000_COVER_TOP.jpg></td>
-<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195905173_BURST000_COVER_TOP.jpg></td>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/muestra_1.jpg></td>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/muestra_2.jpg></td>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/32651591_2206281489397157_2244328842627907584_n.jpg></td>
 </tr>
 </table>
 
