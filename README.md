@@ -6,7 +6,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 ***Integrantes Colaboradores***
 >Creado por: Milton Alexis Durán Moreno.<br />
 >Creado por: Luis Eduardo Hernadez Magaña.<br />
->Creado por: Jorge Alderto Sanchez Maldona.<br />
+>Creado por: Jorge Alderto Sanchez Maldonado.<br />
 
 ***Correo de los contactos***
 >Contacto: duran.milton.92@hotmail.com<br />
@@ -57,7 +57,6 @@ Librerias: para la comunicacion Arduino con Java
 <tr>
 <td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/Motor%2028BYJ-48.jpg></td>
 <td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/Servos.jpg></td>
-<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/lcd.jpg></td>
 </tr>
 </table>
 
