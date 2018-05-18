@@ -53,13 +53,18 @@ Librerias: para la comunicacion Arduino con Java
     >PanamaHitek_Arduino-3.0.0
 
 ## Diseño Interfaz Java
-![alt tag](https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/interfaz.png)
-## Vista previa de Resultados:
+<table>
+<tr>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/Motor%2028BYJ-48.jpg></td>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/Servos.jpg></td>
+<td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/lcd.jpg></td>
+</tr>
+</table>
 
 ## Diseño electrónico
 ![alt tag](https://github.com/MiltonDM/UNIDAD_3/blob/master/image/1.png)
 
-## Muestra De resultado
+## Vista previa de Resultados:
 <table>
 <tr>
 <td><img src=https://github.com/MiltonDM/Brazo_Robotico_De_4_Ejes/blob/master/Imagenes/muestra_1.jpg></td>
