@@ -9,7 +9,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 ***Correo de los contactos***
 >Contacto: duran.milton.92@hotmail.com<br />
 >Contacto: jorgealberto_sanchezmaldonado@outlook.com <br />
->luis.hernandez.magana@hotmail.com<br />
+>Contacto: luis.hernandez.magana@hotmail.com<br />
 
 ## El robot debe tener dos funciones básicas:
 - **Programar:** Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos). 
