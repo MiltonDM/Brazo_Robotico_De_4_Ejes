@@ -1,7 +1,9 @@
 # Brazo_Robotico_De_4_Ejes
 El propósito de esta práctica es desarrollar paso a paso un proyecto para controlar y programar un Brazo Robot, simulando las funciones básicas de un robot industrial. 
 
-# Proyecto Arduino con una interfaz en Java.
+# Proyecto Arduino con una interfaz en Java para Brazo .
+
+***Integrantes Colaboradores***
 >Creado por: Milton Alexis Durán Moreno.<br />
 >Creado por: Luis Eduardo Hernadez Magaña.<br />
 >Creado por: Jorge Alderto Sanchez Maldona.<br />
@@ -16,7 +18,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 - **Ejecutar:** Realice en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR
 
 **Programas:**
-- Java
+- Java (netbeans)
 - Arduino IDE
 
 **Materiales:**
